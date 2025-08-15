@@ -1,4 +1,0 @@
-PO Number,ASN Generated Status,Supplier,Delivery Date,Shipment Data,Source Location,Target Location
-PO12345,Yes,Supplier A,2025-08-20,Shipped,New York,Chicago
-PO54321,No,Supplier B,2025-08-25,Pending,Los Angeles,Dallas
-PO67890,Yes,Supplier C,2025-08-22,In Transit,Houston,Atlanta
