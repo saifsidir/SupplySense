@@ -3,6 +3,7 @@ FROM python:3.11-slim
 WORKDIR /app
 
 COPY requirements.txt .
+COPY po_data.csv .
 RUN pip install --no-cache-dir -r requirements.txt
 
 COPY po_api.py .
