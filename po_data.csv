@@ -1,121 +1,121 @@
-PO Number,Supplier Name,Source Location,Carrier Name,Carrier Location,Status,Order Date,Expected Delivery Date,Actual Delivery Date,Total Items,Total Value (INR),Payment Status,Priority
-PO10001,Atlas Manufacturing,Kolkata,,,CANCELLED,2025-06-28,2025-07-11,,37,5328.87,PARTIALLY PAID,MEDIUM
-PO10002,Sunrise Imports,Mumbai,,,OPEN,2025-07-04,2025-07-08,,45,41093.83,PARTIALLY PAID,HIGH
-PO10003,Atlas Manufacturing,Lucknow,,,OPEN,2025-07-11,2025-07-14,,23,40837.18,PAID,MEDIUM
-PO10004,Acme Supplies,Bengaluru,,,OPEN,2025-07-21,2025-07-24,,16,6965.75,PAID,MEDIUM
-PO10005,Global Trade Co.,Chennai,BlueDart,Mumbai,IN TRANSIT,2025-07-17,2025-08-01,,9,42080.0,PAID,HIGH
-PO10006,Sunrise Imports,Pune,,,OPEN,2025-06-20,2025-06-30,,21,4303.29,PAID,HIGH
-PO10007,Global Trade Co.,Mumbai,,,OPEN,2025-07-02,2025-07-08,,13,24213.32,PAID,MEDIUM
-PO10008,Acme Supplies,Ahmedabad,,,OPEN,2025-07-27,2025-08-06,,31,13543.41,PARTIALLY PAID,HIGH
-PO10009,Sunrise Imports,Kolkata,,,OPEN,2025-08-05,2025-08-17,,48,11887.92,PENDING,LOW
-PO10010,Acme Supplies,Ahmedabad,,,OPEN,2025-08-09,2025-08-23,,25,9603.71,PAID,LOW
-PO10011,Acme Supplies,Bengaluru,,,CANCELLED,2025-06-26,2025-07-01,,13,23408.55,PAID,LOW
-PO10012,Pacific Exports,Mumbai,India Post,Pune,IN TRANSIT,2025-06-23,2025-07-01,,20,9699.18,PARTIALLY PAID,HIGH
-PO10013,Global Trade Co.,Hyderabad,,,OPEN,2025-07-02,2025-07-15,,10,42493.72,PENDING,MEDIUM
-PO10014,Sunrise Imports,Hyderabad,,,OPEN,2025-07-28,2025-07-31,,11,11076.87,PENDING,MEDIUM
-PO10015,Atlas Manufacturing,Kolkata,,,OPEN,2025-08-11,2025-08-20,,20,34907.14,PENDING,MEDIUM
-PO10016,Sunrise Imports,Lucknow,BlueDart,Mumbai,IN TRANSIT,2025-08-10,2025-08-14,,4,24277.2,PARTIALLY PAID,HIGH
-PO10017,Atlas Manufacturing,Mumbai,,,OPEN,2025-07-30,2025-08-12,,7,31531.06,PENDING,LOW
-PO10018,Sunrise Imports,Delhi,,,DELIVERED,2025-07-22,2025-07-25,2025-07-25,45,14188.03,PENDING,HIGH
-PO10019,Global Trade Co.,Lucknow,,,OPEN,2025-08-14,2025-08-27,,24,10212.71,PENDING,HIGH
-PO10020,Pacific Exports,Kolkata,India Post,Bengaluru,IN TRANSIT,2025-08-11,2025-08-24,,45,38440.92,PENDING,HIGH
-PO10021,Pacific Exports,Kolkata,Delhivery,Lucknow,IN TRANSIT,2025-07-24,2025-08-04,,2,4094.73,PENDING,HIGH
-PO10022,Atlas Manufacturing,Chennai,,,DELIVERED,2025-07-09,2025-07-17,2025-07-17,20,15130.18,PENDING,MEDIUM
-PO10023,Pacific Exports,Chennai,BlueDart,Mumbai,IN TRANSIT,2025-06-27,2025-07-03,,45,48293.49,PENDING,HIGH
-PO10024,Atlas Manufacturing,Kolkata,,,OPEN,2025-07-15,2025-07-30,,35,26982.99,PARTIALLY PAID,MEDIUM
-PO10025,Sunrise Imports,Pune,,,OPEN,2025-07-18,2025-07-31,,2,18253.46,PARTIALLY PAID,HIGH
-PO10026,Sunrise Imports,Bengaluru,,,DELIVERED,2025-07-31,2025-08-12,2025-08-12,25,21783.8,PARTIALLY PAID,HIGH
-PO10027,Sunrise Imports,Hyderabad,,,OPEN,2025-07-05,2025-07-15,,6,25317.82,PAID,LOW
-PO10028,Atlas Manufacturing,Lucknow,,,CANCELLED,2025-08-06,2025-08-20,,18,30199.51,PENDING,LOW
-PO10029,Sunrise Imports,Chennai,,,OPEN,2025-07-17,2025-08-01,,8,24053.43,PAID,HIGH
-PO10030,Sunrise Imports,Delhi,,,OPEN,2025-06-23,2025-06-26,,17,27502.49,PARTIALLY PAID,LOW
-PO10031,Atlas Manufacturing,Kolkata,,,OPEN,2025-08-08,2025-08-17,,27,28341.06,PARTIALLY PAID,MEDIUM
-PO10032,Global Trade Co.,Mumbai,,,OPEN,2025-06-20,2025-06-25,,10,47822.07,PAID,MEDIUM
-PO10033,Sunrise Imports,Kolkata,,,OPEN,2025-06-21,2025-06-26,,16,12962.51,PENDING,MEDIUM
-PO10034,Global Trade Co.,Hyderabad,,,OPEN,2025-07-22,2025-08-05,,26,47523.71,PAID,LOW
-PO10035,Acme Supplies,Bengaluru,,,OPEN,2025-07-11,2025-07-18,,27,42175.79,PENDING,LOW
-PO10036,Acme Supplies,Bengaluru,,,OPEN,2025-07-02,2025-07-05,,22,41428.3,PENDING,HIGH
-PO10037,Global Trade Co.,Jaipur,,,CANCELLED,2025-06-24,2025-07-01,,24,36450.8,PARTIALLY PAID,HIGH
-PO10038,Pacific Exports,Chennai,,,OPEN,2025-08-12,2025-08-27,,30,7174.42,PENDING,HIGH
-PO10039,Acme Supplies,Ahmedabad,,,OPEN,2025-08-01,2025-08-10,,32,11864.1,PENDING,HIGH
-PO10040,Global Trade Co.,Mumbai,FedEx,Bengaluru,IN TRANSIT,2025-06-30,2025-07-10,,25,24587.17,PARTIALLY PAID,MEDIUM
-PO10041,Atlas Manufacturing,Bengaluru,Delhivery,Ahmedabad,IN TRANSIT,2025-06-28,2025-07-12,,23,26744.14,PARTIALLY PAID,HIGH
-PO10042,Sunrise Imports,Jaipur,,,OPEN,2025-07-29,2025-08-01,,21,39025.5,PAID,HIGH
-PO10043,Global Trade Co.,Chennai,Delhivery,Hyderabad,IN TRANSIT,2025-07-08,2025-07-13,,21,7987.4,PENDING,LOW
-PO10044,Atlas Manufacturing,Hyderabad,,,DELIVERED,2025-06-28,2025-07-03,2025-07-03,3,6978.46,PAID,LOW
-PO10045,Pacific Exports,Kolkata,DHL,Lucknow,IN TRANSIT,2025-07-28,2025-08-07,,12,25548.83,PAID,LOW
-PO10046,Acme Supplies,Lucknow,,,OPEN,2025-06-24,2025-06-28,,15,37056.23,PARTIALLY PAID,LOW
-PO10047,Pacific Exports,Hyderabad,,,OPEN,2025-07-17,2025-07-21,,49,35128.09,PENDING,HIGH
-PO10048,Pacific Exports,Chennai,DHL,Jaipur,IN TRANSIT,2025-06-30,2025-07-15,,16,30188.9,PAID,MEDIUM
-PO10049,Sunrise Imports,Hyderabad,,,OPEN,2025-07-14,2025-07-20,,14,48113.41,PARTIALLY PAID,LOW
-PO10050,Global Trade Co.,Kolkata,,,OPEN,2025-06-29,2025-07-02,,35,28467.74,PENDING,MEDIUM
-PO10051,Sunrise Imports,Pune,FedEx,Chennai,IN TRANSIT,2025-06-28,2025-07-07,,13,31802.42,PARTIALLY PAID,MEDIUM
-PO10052,Sunrise Imports,Kolkata,,,OPEN,2025-07-26,2025-08-10,,21,31733.77,PAID,LOW
-PO10053,Pacific Exports,Mumbai,,,OPEN,2025-08-05,2025-08-10,,40,10249.29,PAID,HIGH
-PO10054,Atlas Manufacturing,Bengaluru,,,CANCELLED,2025-08-03,2025-08-11,,25,35130.42,PARTIALLY PAID,MEDIUM
-PO10055,Atlas Manufacturing,Hyderabad,,,DELIVERED,2025-07-10,2025-07-19,2025-07-19,30,12451.73,PARTIALLY PAID,HIGH
-PO10056,Pacific Exports,Chennai,,,OPEN,2025-06-27,2025-07-09,,45,40881.0,PARTIALLY PAID,LOW
-PO10057,Atlas Manufacturing,Lucknow,,,DELIVERED,2025-06-25,2025-07-06,2025-07-06,23,18684.74,PENDING,LOW
-PO10058,Acme Supplies,Delhi,,,OPEN,2025-07-18,2025-07-26,,34,3429.96,PAID,MEDIUM
-PO10059,Acme Supplies,Mumbai,BlueDart,Pune,IN TRANSIT,2025-08-09,2025-08-23,,30,17410.11,PENDING,HIGH
-PO10060,Sunrise Imports,Lucknow,,,OPEN,2025-07-31,2025-08-05,,9,42648.27,PARTIALLY PAID,HIGH
-PO10061,Atlas Manufacturing,Chennai,,,DELIVERED,2025-08-06,2025-08-09,2025-08-09,43,24662.46,PAID,LOW
-PO10062,Atlas Manufacturing,Delhi,,,OPEN,2025-08-06,2025-08-21,,49,37228.63,PARTIALLY PAID,MEDIUM
-PO10063,Sunrise Imports,Hyderabad,,,OPEN,2025-06-25,2025-07-07,,4,28048.0,PAID,HIGH
-PO10064,Pacific Exports,Hyderabad,,,CANCELLED,2025-07-10,2025-07-24,,13,33444.33,PAID,MEDIUM
-PO10065,Atlas Manufacturing,Chennai,,,DELIVERED,2025-07-19,2025-07-23,2025-07-23,24,33355.91,PAID,LOW
-PO10066,Global Trade Co.,Lucknow,,,DELIVERED,2025-07-24,2025-08-05,2025-08-05,18,15668.62,PAID,MEDIUM
-PO10067,Acme Supplies,Hyderabad,,,OPEN,2025-06-20,2025-07-04,,23,39650.96,PENDING,LOW
-PO10068,Global Trade Co.,Bengaluru,,,OPEN,2025-07-17,2025-08-01,,11,10392.04,PAID,MEDIUM
-PO10069,Pacific Exports,Pune,,,OPEN,2025-07-21,2025-08-05,,48,40023.06,PAID,LOW
-PO10070,Pacific Exports,Delhi,,,OPEN,2025-08-03,2025-08-17,,29,19029.51,PAID,MEDIUM
-PO10071,Atlas Manufacturing,Delhi,,,OPEN,2025-06-21,2025-07-01,,26,25708.67,PAID,MEDIUM
-PO10072,Acme Supplies,Chennai,,,OPEN,2025-07-28,2025-08-07,,39,2181.14,PENDING,LOW
-PO10073,Atlas Manufacturing,Mumbai,,,DELIVERED,2025-07-08,2025-07-15,2025-07-15,31,16595.18,PENDING,MEDIUM
-PO10074,Global Trade Co.,Lucknow,,,OPEN,2025-07-03,2025-07-12,,16,44881.68,PARTIALLY PAID,HIGH
-PO10075,Global Trade Co.,Pune,,,OPEN,2025-07-30,2025-08-03,,7,31109.14,PARTIALLY PAID,MEDIUM
-PO10076,Acme Supplies,Lucknow,Delhivery,Lucknow,IN TRANSIT,2025-08-12,2025-08-15,,27,45974.07,PENDING,LOW
-PO10077,Pacific Exports,Pune,,,DELIVERED,2025-06-28,2025-07-08,2025-07-08,42,43609.18,PARTIALLY PAID,HIGH
-PO10078,Acme Supplies,Mumbai,DTDC,Mumbai,IN TRANSIT,2025-07-09,2025-07-12,,33,5406.07,PAID,LOW
-PO10079,Global Trade Co.,Lucknow,,,DELIVERED,2025-07-03,2025-07-15,2025-07-15,31,30756.76,PENDING,HIGH
-PO10080,Pacific Exports,Ahmedabad,,,OPEN,2025-07-12,2025-07-18,,41,22944.57,PARTIALLY PAID,HIGH
-PO10081,Atlas Manufacturing,Kolkata,,,OPEN,2025-07-16,2025-07-19,,24,5194.44,PENDING,MEDIUM
-PO10082,Acme Supplies,Mumbai,,,DELIVERED,2025-06-23,2025-06-27,2025-06-27,33,24477.53,PARTIALLY PAID,MEDIUM
-PO10083,Acme Supplies,Jaipur,,,OPEN,2025-07-23,2025-08-05,,9,16299.14,PAID,MEDIUM
-PO10084,Global Trade Co.,Ahmedabad,,,OPEN,2025-06-26,2025-07-09,,2,46960.88,PARTIALLY PAID,LOW
-PO10085,Acme Supplies,Pune,,,OPEN,2025-07-16,2025-07-26,,7,14784.2,PARTIALLY PAID,LOW
-PO10086,Acme Supplies,Kolkata,,,OPEN,2025-07-31,2025-08-13,,3,11611.34,PAID,HIGH
-PO10087,Global Trade Co.,Pune,,,OPEN,2025-08-13,2025-08-24,,33,26377.52,PAID,LOW
-PO10088,Atlas Manufacturing,Kolkata,,,OPEN,2025-07-27,2025-08-04,,5,25610.69,PENDING,HIGH
-PO10089,Sunrise Imports,Mumbai,,,OPEN,2025-07-30,2025-08-03,,30,20548.12,PARTIALLY PAID,HIGH
-PO10090,Sunrise Imports,Delhi,DHL,Jaipur,IN TRANSIT,2025-07-02,2025-07-12,,30,37111.13,PARTIALLY PAID,MEDIUM
-PO10091,Atlas Manufacturing,Ahmedabad,Delhivery,Bengaluru,IN TRANSIT,2025-07-17,2025-08-01,,34,49667.19,PAID,HIGH
-PO10092,Acme Supplies,Ahmedabad,,,OPEN,2025-07-28,2025-08-07,,10,22466.45,PENDING,HIGH
-PO10093,Sunrise Imports,Mumbai,,,OPEN,2025-06-30,2025-07-13,,45,28646.41,PENDING,HIGH
-PO10094,Sunrise Imports,Lucknow,,,OPEN,2025-07-10,2025-07-21,,5,42866.66,PARTIALLY PAID,LOW
-PO10095,Global Trade Co.,Kolkata,,,OPEN,2025-07-08,2025-07-14,,14,28713.35,PENDING,HIGH
-PO10096,Atlas Manufacturing,Delhi,,,OPEN,2025-06-25,2025-07-05,,29,33107.2,PENDING,MEDIUM
-PO10097,Global Trade Co.,Delhi,,,OPEN,2025-06-16,2025-06-19,,15,28904.58,PAID,LOW
-PO10098,Acme Supplies,Lucknow,,,DELIVERED,2025-08-10,2025-08-25,2025-08-25,23,11465.24,PARTIALLY PAID,MEDIUM
-PO10099,Acme Supplies,Bengaluru,,,OPEN,2025-07-16,2025-07-28,,23,23709.49,PARTIALLY PAID,LOW
-PO10100,Global Trade Co.,Chennai,,,CANCELLED,2025-08-06,2025-08-16,,24,1048.72,PENDING,HIGH
-PO10101,Acme Supplies,Lucknow,,,OPEN,2025-06-28,2025-07-05,,33,16216.43,PENDING,MEDIUM
-PO10102,Atlas Manufacturing,Chennai,,,OPEN,2025-08-07,2025-08-16,,11,38029.13,PENDING,MEDIUM
-PO10103,Acme Supplies,Delhi,,,OPEN,2025-08-05,2025-08-19,,46,14895.58,PAID,HIGH
-PO10104,Pacific Exports,Hyderabad,,,CANCELLED,2025-08-05,2025-08-11,,35,35908.88,PARTIALLY PAID,LOW
-PO10105,Acme Supplies,Delhi,,,OPEN,2025-07-04,2025-07-18,,50,6004.31,PARTIALLY PAID,HIGH
-PO10106,Global Trade Co.,Lucknow,,,OPEN,2025-07-05,2025-07-11,,19,49953.86,PAID,LOW
-PO10107,Global Trade Co.,Mumbai,BlueDart,Lucknow,IN TRANSIT,2025-08-09,2025-08-19,,40,44325.56,PAID,HIGH
-PO10108,Global Trade Co.,Jaipur,Delhivery,Chennai,IN TRANSIT,2025-07-04,2025-07-14,,39,9955.89,PARTIALLY PAID,LOW
-PO10109,Acme Supplies,Chennai,,,OPEN,2025-07-21,2025-07-25,,50,40309.01,PARTIALLY PAID,MEDIUM
-PO10110,Pacific Exports,Ahmedabad,,,OPEN,2025-06-26,2025-07-07,,6,21806.72,PARTIALLY PAID,LOW
-PO10111,Atlas Manufacturing,Kolkata,,,OPEN,2025-07-09,2025-07-14,,20,21020.05,PAID,HIGH
-PO10112,Pacific Exports,Hyderabad,,,OPEN,2025-07-12,2025-07-26,,50,32152.23,PAID,MEDIUM
-PO10113,Acme Supplies,Lucknow,,,DELIVERED,2025-07-27,2025-08-09,2025-08-09,1,4147.82,PENDING,HIGH
-PO10114,Global Trade Co.,Delhi,BlueDart,Kolkata,IN TRANSIT,2025-06-16,2025-06-19,,22,45605.88,PARTIALLY PAID,HIGH
-PO10115,Pacific Exports,Delhi,India Post,Pune,IN TRANSIT,2025-07-02,2025-07-15,,42,19440.11,PENDING,MEDIUM
-PO10116,Pacific Exports,Hyderabad,,,DELIVERED,2025-07-22,2025-08-05,2025-08-05,31,47597.81,PENDING,MEDIUM
-PO10117,Pacific Exports,Bengaluru,,,OPEN,2025-07-30,2025-08-03,,46,39188.64,PAID,LOW
-PO10118,Sunrise Imports,Kolkata,,,OPEN,2025-06-23,2025-07-06,,41,4444.69,PENDING,LOW
-PO10119,Sunrise Imports,Pune,,,OPEN,2025-07-27,2025-08-02,,5,23151.83,PENDING,MEDIUM
-PO10120,Pacific Exports,Kolkata,,,OPEN,2025-07-27,2025-08-07,,50,12839.79,PAID,MEDIUM
+PO Number,Supplier Name,Source Location,Target Destination,Status,Expected Delivery Date,PO Content,PO Receipt,Carrier Location
+PO0001,Quantum Motors,Mumbai,Patna,Open,2025-08-27,83 units of Plastics,Receipt-9896,
+PO0002,Vertex Electronics,Kolkata,Surat,Open,2025-09-07,53 units of Textiles,Receipt-1871,
+PO0003,Zenith Components,Jaipur,Ahmedabad,Open,2025-08-22,67 units of Plastics,Receipt-4613,
+PO0004,Quantum Motors,Chennai,Bhopal,Open,2025-09-06,99 units of Electronics,Receipt-8847,
+PO0005,Pioneer Chemicals,Kolkata,Nagpur,Open,2025-08-27,29 units of Steel,Receipt-3660,
+PO0006,Global Metals,Hyderabad,Bhopal,Open,2025-09-03,80 units of Steel,Receipt-4376,
+PO0007,Prime Plastics,Kolkata,Chandigarh,Delivered,2025-09-06,75 units of Electronics,Receipt-5616,
+PO0008,Quantum Motors,Pune,Ahmedabad,Open,2025-09-02,41 units of Chemicals,Receipt-2374,
+PO0009,Atlas Manufacturing,Mumbai,Indore,In Transit,2025-08-23,31 units of Plastics,Receipt-9759,Chennai Port
+PO0010,Summit Textiles,Pune,Patna,Open,2025-08-26,51 units of Automobile Parts,Receipt-9101,
+PO0011,Quantum Motors,Kolkata,Lucknow,Open,2025-08-29,19 units of Steel,Receipt-1010,
+PO0012,Quantum Motors,Jaipur,Indore,Open,2025-09-06,34 units of Textiles,Receipt-8369,
+PO0013,Summit Textiles,Pune,Ahmedabad,In Transit,2025-09-04,95 units of Plastics,Receipt-9684,Bangalore Hub
+PO0014,Pioneer Chemicals,Mumbai,Indore,Open,2025-08-23,46 units of Automobile Parts,Receipt-4243,
+PO0015,Zenith Components,Hyderabad,Ahmedabad,Open,2025-08-21,68 units of Textiles,Receipt-6521,
+PO0016,Global Metals,Hyderabad,Ahmedabad,Delivered,2025-09-03,23 units of Automobile Parts,Receipt-9890,
+PO0017,Summit Textiles,Chennai,Surat,Delivered,2025-08-23,48 units of Steel,Receipt-6385,
+PO0018,Prime Plastics,Hyderabad,Bhopal,In Transit,2025-08-28,63 units of Textiles,Receipt-8824,Hyderabad Distribution
+PO0019,Quantum Motors,Mumbai,Ahmedabad,In Transit,2025-09-01,57 units of Steel,Receipt-3987,Delhi Logistics Center
+PO0020,Summit Textiles,Bangalore,Indore,Open,2025-08-26,25 units of Steel,Receipt-3099,
+PO0021,Prime Plastics,Jaipur,Ahmedabad,In Transit,2025-08-31,38 units of Chemicals,Receipt-7290,Chennai Port
+PO0022,Pioneer Chemicals,Delhi,Patna,In Transit,2025-08-26,21 units of Textiles,Receipt-8597,Delhi Logistics Center
+PO0023,Summit Textiles,Delhi,Chandigarh,Delivered,2025-08-27,44 units of Automobile Parts,Receipt-8623,
+PO0024,Quantum Motors,Jaipur,Chandigarh,Delivered,2025-08-27,92 units of Electronics,Receipt-9458,
+PO0025,Vertex Electronics,Hyderabad,Ahmedabad,In Transit,2025-08-30,37 units of Chemicals,Receipt-1325,Delhi Logistics Center
+PO0026,Atlas Manufacturing,Delhi,Indore,In Transit,2025-08-28,84 units of Electronics,Receipt-2609,Bangalore Hub
+PO0027,Prime Plastics,Pune,Nagpur,Open,2025-09-05,60 units of Automobile Parts,Receipt-6273,
+PO0028,Pioneer Chemicals,Jaipur,Surat,In Transit,2025-08-31,52 units of Chemicals,Receipt-4494,Chennai Port
+PO0029,Global Metals,Delhi,Ahmedabad,In Transit,2025-09-07,41 units of Automobile Parts,Receipt-3717,Hyderabad Distribution
+PO0030,Pioneer Chemicals,Kolkata,Indore,Delivered,2025-09-08,64 units of Electronics,Receipt-3457,
+PO0031,Atlas Manufacturing,Chennai,Nagpur,In Transit,2025-08-23,57 units of Plastics,Receipt-1646,Chennai Port
+PO0032,Quantum Motors,Bangalore,Chandigarh,Delivered,2025-08-26,34 units of Automobile Parts,Receipt-9797,
+PO0033,Pioneer Chemicals,Chennai,Surat,Open,2025-09-08,59 units of Electronics,Receipt-1087,
+PO0034,Zenith Components,Chennai,Lucknow,Open,2025-09-02,62 units of Automobile Parts,Receipt-6777,
+PO0035,Prime Plastics,Delhi,Chandigarh,Open,2025-08-24,91 units of Plastics,Receipt-1077,
+PO0036,Quantum Motors,Delhi,Chandigarh,Open,2025-08-25,29 units of Chemicals,Receipt-6602,
+PO0037,Pioneer Chemicals,Hyderabad,Chandigarh,Open,2025-09-04,32 units of Plastics,Receipt-5116,
+PO0038,Prime Plastics,Jaipur,Ahmedabad,Delayed,2025-08-28,26 units of Automobile Parts,Receipt-5487,
+PO0039,Summit Textiles,Pune,Patna,Open,2025-08-27,11 units of Automobile Parts,Receipt-3069,
+PO0040,Global Metals,Delhi,Surat,Open,2025-08-23,13 units of Steel,Receipt-4803,
+PO0041,Vertex Electronics,Jaipur,Lucknow,In Transit,2025-09-03,28 units of Chemicals,Receipt-1145,Delhi Logistics Center
+PO0042,Vertex Electronics,Delhi,Indore,Open,2025-08-24,29 units of Plastics,Receipt-2438,
+PO0043,Vertex Electronics,Bangalore,Lucknow,Open,2025-08-23,19 units of Plastics,Receipt-1284,
+PO0044,Pioneer Chemicals,Hyderabad,Ahmedabad,In Transit,2025-08-30,52 units of Textiles,Receipt-5226,Bangalore Hub
+PO0045,Global Metals,Kolkata,Surat,In Transit,2025-09-01,38 units of Plastics,Receipt-6394,Bangalore Hub
+PO0046,Global Metals,Kolkata,Lucknow,Open,2025-09-07,25 units of Automobile Parts,Receipt-9954,
+PO0047,Summit Textiles,Mumbai,Bhopal,Open,2025-08-31,76 units of Chemicals,Receipt-2926,
+PO0048,Quantum Motors,Delhi,Ahmedabad,In Transit,2025-09-07,26 units of Textiles,Receipt-5652,Delhi Logistics Center
+PO0049,Pioneer Chemicals,Chennai,Surat,In Transit,2025-09-03,45 units of Steel,Receipt-3253,Mumbai Hub
+PO0050,Zenith Components,Jaipur,Chandigarh,Open,2025-09-03,64 units of Textiles,Receipt-9545,
+PO0051,Pioneer Chemicals,Chennai,Ahmedabad,Open,2025-09-07,47 units of Chemicals,Receipt-7828,
+PO0052,Zenith Components,Chennai,Ahmedabad,Delivered,2025-08-24,24 units of Chemicals,Receipt-6328,
+PO0053,Quantum Motors,Mumbai,Nagpur,In Transit,2025-08-23,18 units of Plastics,Receipt-2335,Chennai Port
+PO0054,Quantum Motors,Delhi,Bhopal,Delivered,2025-08-28,48 units of Electronics,Receipt-9480,
+PO0055,Quantum Motors,Mumbai,Nagpur,Open,2025-08-25,39 units of Plastics,Receipt-4303,
+PO0056,Atlas Manufacturing,Hyderabad,Lucknow,Open,2025-08-25,58 units of Plastics,Receipt-5548,
+PO0057,Atlas Manufacturing,Mumbai,Ahmedabad,Open,2025-08-28,49 units of Electronics,Receipt-6917,
+PO0058,Zenith Components,Pune,Patna,Open,2025-08-26,46 units of Electronics,Receipt-1870,
+PO0059,Pioneer Chemicals,Kolkata,Patna,In Transit,2025-08-26,59 units of Textiles,Receipt-1299,Chennai Port
+PO0060,Global Metals,Chennai,Ahmedabad,In Transit,2025-09-06,16 units of Textiles,Receipt-1232,Hyderabad Distribution
+PO0061,Summit Textiles,Jaipur,Ahmedabad,Delivered,2025-08-21,34 units of Chemicals,Receipt-3043,
+PO0062,Quantum Motors,Bangalore,Indore,Open,2025-09-06,41 units of Chemicals,Receipt-5226,
+PO0063,Atlas Manufacturing,Delhi,Bhopal,Delivered,2025-09-08,53 units of Automobile Parts,Receipt-9312,
+PO0064,Zenith Components,Hyderabad,Chandigarh,Open,2025-08-28,10 units of Electronics,Receipt-6492,
+PO0065,Prime Plastics,Bangalore,Nagpur,Open,2025-08-21,90 units of Steel,Receipt-6307,
+PO0066,Summit Textiles,Kolkata,Surat,In Transit,2025-08-26,57 units of Textiles,Receipt-9407,Mumbai Hub
+PO0067,Prime Plastics,Chennai,Ahmedabad,In Transit,2025-08-21,67 units of Plastics,Receipt-2624,Mumbai Hub
+PO0068,Atlas Manufacturing,Kolkata,Patna,In Transit,2025-09-03,74 units of Chemicals,Receipt-8203,Bangalore Hub
+PO0069,Vertex Electronics,Delhi,Bhopal,Open,2025-09-04,68 units of Electronics,Receipt-3101,
+PO0070,Global Metals,Delhi,Chandigarh,Delayed,2025-09-08,80 units of Electronics,Receipt-5826,
+PO0071,Vertex Electronics,Jaipur,Patna,Delivered,2025-09-03,27 units of Automobile Parts,Receipt-6405,
+PO0072,Summit Textiles,Mumbai,Lucknow,In Transit,2025-08-27,26 units of Plastics,Receipt-4731,Mumbai Hub
+PO0073,Summit Textiles,Kolkata,Ahmedabad,In Transit,2025-08-27,94 units of Chemicals,Receipt-5764,Chennai Port
+PO0074,Vertex Electronics,Bangalore,Patna,Open,2025-08-31,17 units of Textiles,Receipt-7919,
+PO0075,Global Metals,Pune,Bhopal,In Transit,2025-09-07,100 units of Steel,Receipt-3534,Hyderabad Distribution
+PO0076,Prime Plastics,Chennai,Surat,In Transit,2025-09-04,99 units of Textiles,Receipt-5834,Bangalore Hub
+PO0077,Vertex Electronics,Bangalore,Indore,In Transit,2025-08-21,72 units of Chemicals,Receipt-1579,Hyderabad Distribution
+PO0078,Atlas Manufacturing,Mumbai,Patna,Open,2025-09-03,31 units of Plastics,Receipt-3369,
+PO0079,Global Metals,Bangalore,Chandigarh,Delivered,2025-08-23,19 units of Steel,Receipt-1415,
+PO0080,Vertex Electronics,Pune,Patna,Open,2025-09-06,92 units of Steel,Receipt-6906,
+PO0081,Prime Plastics,Delhi,Bhopal,In Transit,2025-08-29,65 units of Chemicals,Receipt-5211,Bangalore Hub
+PO0082,Atlas Manufacturing,Kolkata,Chandigarh,Open,2025-08-30,88 units of Textiles,Receipt-3005,
+PO0083,Prime Plastics,Chennai,Nagpur,Open,2025-09-02,43 units of Plastics,Receipt-2718,
+PO0084,Pioneer Chemicals,Mumbai,Bhopal,In Transit,2025-09-01,53 units of Plastics,Receipt-9734,Delhi Logistics Center
+PO0085,Prime Plastics,Delhi,Chandigarh,Delivered,2025-08-22,31 units of Plastics,Receipt-8379,
+PO0086,Summit Textiles,Mumbai,Chandigarh,Open,2025-09-06,27 units of Electronics,Receipt-9875,
+PO0087,Global Metals,Hyderabad,Surat,Delayed,2025-08-28,100 units of Automobile Parts,Receipt-8466,
+PO0088,Zenith Components,Chennai,Surat,In Transit,2025-08-25,90 units of Electronics,Receipt-1117,Hyderabad Distribution
+PO0089,Quantum Motors,Bangalore,Nagpur,Open,2025-08-26,67 units of Textiles,Receipt-5198,
+PO0090,Global Metals,Mumbai,Lucknow,Open,2025-08-22,52 units of Automobile Parts,Receipt-2613,
+PO0091,Vertex Electronics,Delhi,Bhopal,Delayed,2025-09-07,24 units of Automobile Parts,Receipt-5522,
+PO0092,Prime Plastics,Delhi,Indore,Open,2025-09-05,37 units of Chemicals,Receipt-3555,
+PO0093,Global Metals,Jaipur,Ahmedabad,Delivered,2025-08-23,63 units of Textiles,Receipt-7879,
+PO0094,Summit Textiles,Kolkata,Ahmedabad,Open,2025-08-23,61 units of Chemicals,Receipt-2630,
+PO0095,Quantum Motors,Mumbai,Nagpur,Delivered,2025-08-22,34 units of Steel,Receipt-1423,
+PO0096,Pioneer Chemicals,Delhi,Ahmedabad,In Transit,2025-09-04,62 units of Electronics,Receipt-9865,Hyderabad Distribution
+PO0097,Zenith Components,Hyderabad,Nagpur,Open,2025-08-22,72 units of Textiles,Receipt-1506,
+PO0098,Zenith Components,Pune,Nagpur,Delivered,2025-08-23,92 units of Plastics,Receipt-6421,
+PO0099,Global Metals,Bangalore,Bhopal,In Transit,2025-09-02,54 units of Plastics,Receipt-5327,Mumbai Hub
+PO0100,Summit Textiles,Delhi,Patna,Open,2025-08-21,18 units of Steel,Receipt-8888,
+PO0101,Atlas Manufacturing,Mumbai,Lucknow,In Transit,2025-09-04,65 units of Electronics,Receipt-6736,Bangalore Hub
+PO0102,Summit Textiles,Mumbai,Surat,Delivered,2025-08-25,82 units of Automobile Parts,Receipt-3889,
+PO0103,Atlas Manufacturing,Delhi,Bhopal,In Transit,2025-09-07,10 units of Chemicals,Receipt-2587,Bangalore Hub
+PO0104,Pioneer Chemicals,Mumbai,Chandigarh,Open,2025-09-04,94 units of Textiles,Receipt-4317,
+PO0105,Global Metals,Jaipur,Nagpur,In Transit,2025-08-21,47 units of Chemicals,Receipt-8645,Chennai Port
+PO0106,Pioneer Chemicals,Bangalore,Bhopal,In Transit,2025-09-04,40 units of Electronics,Receipt-5548,Mumbai Hub
+PO0107,Global Metals,Bangalore,Nagpur,Open,2025-09-01,74 units of Electronics,Receipt-8679,
+PO0108,Atlas Manufacturing,Pune,Bhopal,Open,2025-08-24,36 units of Textiles,Receipt-3522,
+PO0109,Pioneer Chemicals,Bangalore,Indore,In Transit,2025-08-27,21 units of Steel,Receipt-3348,Chennai Port
+PO0110,Vertex Electronics,Jaipur,Indore,Delayed,2025-08-26,42 units of Steel,Receipt-1659,
+PO0111,Summit Textiles,Bangalore,Lucknow,Delivered,2025-08-21,38 units of Chemicals,Receipt-2819,
+PO0112,Vertex Electronics,Delhi,Nagpur,Open,2025-08-29,90 units of Steel,Receipt-8308,
+PO0113,Atlas Manufacturing,Kolkata,Patna,Open,2025-08-24,44 units of Automobile Parts,Receipt-1356,
+PO0114,Global Metals,Mumbai,Nagpur,Delivered,2025-08-29,56 units of Chemicals,Receipt-1284,
+PO0115,Global Metals,Chennai,Nagpur,Open,2025-09-05,14 units of Plastics,Receipt-7213,
+PO0116,Vertex Electronics,Delhi,Bhopal,In Transit,2025-08-24,73 units of Automobile Parts,Receipt-1534,Mumbai Hub
+PO0117,Zenith Components,Kolkata,Patna,Open,2025-09-01,30 units of Steel,Receipt-2711,
+PO0118,Global Metals,Pune,Chandigarh,Open,2025-09-06,68 units of Steel,Receipt-3393,
+PO0119,Vertex Electronics,Jaipur,Chandigarh,Delivered,2025-08-21,10 units of Textiles,Receipt-4157,
+PO0120,Pioneer Chemicals,Kolkata,Patna,In Transit,2025-08-24,12 units of Plastics,Receipt-6089,Mumbai Hub
